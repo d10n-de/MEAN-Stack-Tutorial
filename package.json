@@ -1,0 +1,30 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "\"# MEAN-Stack-Tutorial\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d10n-de/MEAN-Stack-Tutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "angular",
+    "2",
+    "application"
+  ],
+  "author": "Dirk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d10n-de/MEAN-Stack-Tutorial/issues"
+  },
+  "homepage": "https://github.com/d10n-de/MEAN-Stack-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.1"
+  }
+}
